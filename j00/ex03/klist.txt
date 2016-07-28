@@ -1,0 +1,5 @@
+Credentials cache: API:17951
+        Principal: lmarques@42.FR
+
+  Issued                Expires               Principal
+Jul  4 09:41:34 2016  Jul  4 19:41:34 2016  krbtgt/42.FR@42.FR
